@@ -11,6 +11,8 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import com.tikaz.entity.PanditProfile;
 import com.tikaz.repository.PanditRepository;
 
+
+//This is just line of comment in Controller
 @Controller
 public class PanditController {
 
